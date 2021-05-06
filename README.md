@@ -32,11 +32,12 @@
 <hr/>
 
 <h2 id="layout">Layout</h2>
-<img src="https://ik.imagekit.io/fp3xx2hhnq/WhatsApp_Image_2021-05-03_at_11.56.16__1__5gf4hyXgT.jpeg">
-<img height="500px" src="https://ik.imagekit.io/fp3xx2hhnq/New_Website_Blue_Mockup_Instagram_-_Laptop-removebg-preview_oWvaMX-_i.png">
+<h3>Layout Desktop</h3>
+<img height="500px" src="https://ik.imagekit.io/fp3xx2hhnq/WhatsApp_Image_2021-05-03_at_11.56.16__1__5gf4hyXgT.jpeg">
+<h3>Layout Mobile</h3>
 <span> 
-  <img height="500px" src="https://ik.imagekit.io/fp3xx2hhnq/Autumn_Sale_Aesthetic_Post_Social_Media-removebg-preview_igmjbdozr.png">
-  <img height="500px" src="https://ik.imagekit.io/fp3xx2hhnq/Autumn_Sale_Aesthetic_Post_Social_Media__1_-removebg-preview_EHxlTvUe0.png">
+  <img  height="500px"src="https://ik.imagekit.io/fp3xx2hhnq/sds3-mobile1_DHy70vKyaT0.png">
+  <img  height="499px"src="https://ik.imagekit.io/fp3xx2hhnq/sds3-mobile2_zw4RpHVBt.png">
 </span>
 <br/>
 <hr/>
