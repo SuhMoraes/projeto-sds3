@@ -103,6 +103,35 @@
      <li>Banco de dados: Postgresql</li>        
   </ul>
 </ul>
+
+
+<h3>3° Dia - Integrar back end e front end</h3>
+<ul>
+ <li>Implementação do back end: </li>
+    <ul>
+     <li>Três pilares do React:</li>
+      <ul>
+        <li>Componentes</li>
+        <li>Props</li>
+        <li>Estado</li>
+      </ul>
+     <li>React Hooks</li>
+      ul>
+        <li>Componentes</li>
+        <li>useState</li>
+        <li>useEffect</li>
+      </ul>
+     <li>Libs</li>
+     ul>
+        <li>React Router DOM</li>
+        <li>Axios</li>        
+      </ul>  
+  </ul>
+</ul>
+
+
+Libs
+React Router DOM
 <hr>
 
 <h2 id="execucao-projeto">🚧Como executar o projeto🚧</h2>
