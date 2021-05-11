@@ -116,13 +116,13 @@
         <li>Estado</li>
       </ul>
      <li>React Hooks</li>
-      ul>
+      <ul>
         <li>Componentes</li>
         <li>useState</li>
         <li>useEffect</li>
       </ul>
      <li>Libs</li>
-     ul>
+     <ul>
         <li>React Router DOM</li>
         <li>Axios</li>        
       </ul>  
@@ -130,8 +130,7 @@
 </ul>
 
 
-Libs
-React Router DOM
+
 <hr>
 
 <h2 id="execucao-projeto">🚧Como executar o projeto🚧</h2>
