@@ -68,7 +68,7 @@
 <hr/>
 
 <h2 id="conteudo-das-Aulas"> Conteúdo das Aulas </h2>
-<h3>1° Dia - Front End </h3>
+<h3>1° Dia - Front-End </h3>
 <ul>
  <li>Criação dos projetos backend e frontend </li>
  <li>Commit dos projeto no Github em monorepo</li>
@@ -78,7 +78,7 @@
 </ul>
 <br>
 
-<h3>2° Dia - Back End </h3>
+<h3>2° Dia - Back-End </h3>
 <ul>
  <li>Implementação do back end: </li>
     <ul>
@@ -105,7 +105,7 @@
 </ul>
 
 
-<h3>3° Dia - Integrar back end e front end</h3>
+<h3>3° Dia - Integrar back-end e front-end</h3>
 <ul>
  <li>Implementação do back end: </li>
     <ul>
@@ -133,7 +133,41 @@
 
 <hr>
 
-<h2 id="execucao-projeto">🚧Como executar o projeto🚧</h2>
+<h2 id="execucao-projeto">Como executar o projeto</h2>
+
+<h2>Back-End</h2>
+
+```
+# Clone repository
+$ git clone https://github.com/SuhMoraes/projeto-sds3.git
+
+# Enter the project back-end folder
+$ cd backend
+
+# Run project
+$ ./mvnw spring-boot:run
+```
+
+<h2>Front-End</h2>
+<p>Pré-requisito: npm | yarn</p>
+
+```
+# Clone repository
+$ git clonehttps://github.com/SuhMoraes/projeto-sds3.git
+
+# Enter the project front-end folder
+$ cd frontend
+
+# Install dependencies
+$ yarn install
+
+# Run project
+$ yarn start
+
+# Access localhost
+http://localhost:3000
+```
+
 <hr>
 
 <h2 id="licenc-a">Licença</h2>
